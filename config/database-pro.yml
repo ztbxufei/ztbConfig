@@ -1,8 +1,6 @@
 server:
-   port: 8085
+  port: 8085
 spring:
-  application:
-      name: databaseApplication
    #数据库信息
   datasource:
       driver-class-name: com.mysql.cj.jdbc.Driver
