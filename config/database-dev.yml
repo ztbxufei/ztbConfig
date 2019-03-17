@@ -1,5 +1,5 @@
 myserver:
-  name: zhuangmeng-xufei
+  name: jingfei
 spring:
    #数据库信息
   datasource:
